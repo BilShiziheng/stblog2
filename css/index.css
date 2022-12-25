@@ -6665,27 +6665,7 @@ blockquote.pullquote.right {
 .read-mode #article-container .note .note-icon {
   color: var(--font-color);
 }
-.page #page:not(.home #page){
-    background: transparent!important;
-    border: none!important;
-    box-shadow: none!important;
-    padding-top: 0;
-    backdrop-filter: none!important;
-}
-#page::before{
-    position: fixed;
-    z-index:-114;
-    bottom: 0;
-    left:0;
-    width: 100%;
-    height: 100%;
-    content:'';
-    backdrop-filter: blur(10px);
-    background:var(--lyx-white-acrylic2);
-}
-[data-theme="dark"] #page::before{
-    background-color: var(--lyx-black-acrylic2)!important;
-}
+
 
 @import "//at.alicdn.com/t/c/font_3833106_glliy8u8lua.css";
 @import "//at.alicdn.com/t/font_2264842_b004iy0kk2b.css";
@@ -6743,14 +6723,6 @@ font-style: normal;
 /* 页脚黑色透明玻璃效果移除 */
 #footer::before{
     background: transparent!important;
-  }
-/* 头图透明 */
-#page-header{
-  background: transparent!important;
-}
-/* 头图遮罩层透明 */
-#page-header::before{
-  background: transparent!important;
   }
 /*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */
 #page-header.post-bg:before {
@@ -7948,8 +7920,27 @@ li.card-archive-list-item {
     opacity: 0.5;
     transform: scale(0.5);
 }
-
-
+.page #page:not(.home #page){
+    background: transparent!important;
+    border: none!important;
+    box-shadow: none!important;
+    padding-top: 0;
+    backdrop-filter: none!important;
+}
+#page::before{
+    position: fixed;
+    z-index:-114;
+    bottom: 0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    content:'';
+    backdrop-filter: blur(10px);
+    background:var(--lyx-white-acrylic2);
+}
+[data-theme="dark"] #page::before{
+    background-color: var(--lyx-black-acrylic2)!important;
+}
 
 .search-dialog {
   position: fixed;
