@@ -42,4 +42,4 @@ function cancelNotify(){
   }, 1e3);
 
 }
-SAONotify('节日提醒','芜湖！圣诞节快乐，距离元旦还有5天，我也快考试了（悲）','location.reload(true);');
+SAONotify('欢迎','欢迎来到我的Blog，距离元旦还有7天，我也快考试了（2天）','location.reload(true);');
