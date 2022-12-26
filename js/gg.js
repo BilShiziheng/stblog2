@@ -63,13 +63,13 @@ $.ajax({
                     pos = ipLoacation.result.ad_info.province + " " + ipLoacation.result.ad_info.city;
                     switch (ipLoacation.result.ad_info.province) {
                         case "北京市":
-                            posdesc = "北——京——欢迎你~~~";
+                            posdesc = "老乡！！！";
                             break;
                         case "天津市":
                             posdesc = "讲段相声吧。";
                             break;
                         case "重庆市":
-                            posdesc = "老乡！！！"
+                            posdesc = "去吃火锅吧（"
                             break;
                         case "河北省":
                             posdesc = "山势巍巍成壁垒，天下雄关。铁马金戈由此向，无限江山。";
@@ -81,7 +81,7 @@ $.ajax({
                             posdesc = "天苍苍，野茫茫，风吹草低见牛羊。";
                             break;
                         case "辽宁省":
-                            posdesc = "我想吃烤鸡架！";
+                            posdesc = "我想吃烤只因架！";
                             break;
                         case "吉林省":
                             posdesc = "状元阁就是东北烧烤之王。";
@@ -197,7 +197,7 @@ $.ajax({
         你距离石头约有<span>${dist}</span>公里，${posdesc}
         <br>
         <br>
-        欢迎来到石头的Blog，尽情评论吧qwq（提示，得use魔法）
+        欢迎来到石头的Blog，尽情评论吧qwq，祝小店永久运行！
         `;
         }
         showWelcome()
