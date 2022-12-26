@@ -8,7 +8,7 @@
 // //每个弹幕的间隔时间
 // const danmakuTime = 1000;
 // //我用的是Vercel部署，这里链接就是Vercel的链接，腾讯云的自己琢磨一下哈，应该也差不多
-// const twikooUrl = "https://tkapi.jcblog.cf";
+// const twikooUrl = "https://www.sttwikoo.ml/";
 // //token要手动获取（反正我是开发者工具里获取的，教程在下面
 // const accessToken = "1059857c25a2ce9fba9cff298f4f33ee";
 // const pageUrl = "/messageboard/"

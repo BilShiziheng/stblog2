@@ -3,7 +3,7 @@ function comCount() {
     let d = loadData('comCount', 10) // 10为10分钟获取一次，可自定义时长
     if (d) document.querySelectorAll('.card_comment').forEach(i => { i.innerHTML = d; })
     else {
-        fetch('https://tkapi.jcblog.cf/', { // 此处更换url
+        fetch('https://www.sttwikoo.ml/', { // 此处更换url
             method: "POST",
             body: JSON.stringify({
                 "event": "COMMENT_GET_FOR_ADMIN",

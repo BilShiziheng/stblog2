@@ -2,7 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.jcblog.cf/update/index.html</loc>
+    <loc>https://www.stoneblog.ml/speaks/index.html</loc>
+    
+    <lastmod>2022-12-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.stoneblog.ml/posts/3ba4c2ca/</loc>
+    
+    <lastmod>2022-12-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.stoneblog.ml/posts/10910c06/</loc>
+    
+    <lastmod>2022-12-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.stoneblog.ml/posts/5c54179b/</loc>
+    
+    <lastmod>2022-12-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.stoneblog.ml/update/index.html</loc>
     
     <lastmod>2022-12-22</lastmod>
     
@@ -11,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/speaks/index.html</loc>
+    <loc>https://www.stoneblog.ml/messageboard/index.html</loc>
     
     <lastmod>2022-12-22</lastmod>
     
@@ -20,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/messageboard/index.html</loc>
+    <loc>https://www.stoneblog.ml/links/index.html</loc>
     
     <lastmod>2022-12-22</lastmod>
     
@@ -29,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/links/index.html</loc>
+    <loc>https://www.stoneblog.ml/manifest.json</loc>
     
     <lastmod>2022-12-22</lastmod>
     
@@ -38,25 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/manifest.json</loc>
-    
-    <lastmod>2022-12-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/e433f3d/</loc>
-    
-    <lastmod>2022-12-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/link/index.html</loc>
+    <loc>https://www.stoneblog.ml/link/index.html</loc>
     
     <lastmod>2022-12-15</lastmod>
     
@@ -65,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/fcircle/index.html</loc>
+    <loc>https://www.stoneblog.ml/fcircle/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -74,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/kongtiao/index.html</loc>
+    <loc>https://www.stoneblog.ml/kongtiao/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -83,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/othersite/index.html</loc>
+    <loc>https://www.stoneblog.ml/othersite/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -92,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/zaobao/index.html</loc>
+    <loc>https://www.stoneblog.ml/zaobao/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -101,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/package.json</loc>
+    <loc>https://www.stoneblog.ml/package.json</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -110,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/about/index.html</loc>
+    <loc>https://www.stoneblog.ml/categories/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -119,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/bangumis/index.html</loc>
+    <loc>https://www.stoneblog.ml/bangumis/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -128,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/categories/index.html</loc>
+    <loc>https://www.stoneblog.ml/about/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -137,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/fontawesome/index.html</loc>
+    <loc>https://www.stoneblog.ml/fontawesome/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -146,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/license/index.html</loc>
+    <loc>https://www.stoneblog.ml/license/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -155,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/musics/index.html</loc>
+    <loc>https://www.stoneblog.ml/musics/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -164,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/muyu/index.html</loc>
+    <loc>https://www.stoneblog.ml/muyu/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -173,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/tags/index.html</loc>
+    <loc>https://www.stoneblog.ml/tags/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -182,387 +200,9 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/tools/index.html</loc>
+    <loc>https://www.stoneblog.ml/tools/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/a90c94cd/</loc>
-    
-    <lastmod>2022-12-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/e536ec4/</loc>
-    
-    <lastmod>2022-12-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/4bd8701b/</loc>
-    
-    <lastmod>2022-12-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/11eb4aac/</loc>
-    
-    <lastmod>2022-12-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/670e47f/</loc>
-    
-    <lastmod>2022-12-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/30bce1d1/</loc>
-    
-    <lastmod>2022-12-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/65ad2601/</loc>
-    
-    <lastmod>2022-12-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/ff1701d7/</loc>
-    
-    <lastmod>2022-12-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/8a79afbb/</loc>
-    
-    <lastmod>2022-12-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/614f1131/</loc>
-    
-    <lastmod>2022-12-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/a844d9fc/</loc>
-    
-    <lastmod>2022-11-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/becc831a/</loc>
-    
-    <lastmod>2022-11-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/5d71c71f/</loc>
-    
-    <lastmod>2022-11-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/ff156c72/</loc>
-    
-    <lastmod>2022-11-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/8b73c6b7/</loc>
-    
-    <lastmod>2022-11-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/6deceee9/</loc>
-    
-    <lastmod>2022-11-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/74e5e1ec/</loc>
-    
-    <lastmod>2022-11-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/a61abc/</loc>
-    
-    <lastmod>2022-11-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/4ebac27c/</loc>
-    
-    <lastmod>2022-11-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/a1078b2d/</loc>
-    
-    <lastmod>2022-10-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/ac792cf4/</loc>
-    
-    <lastmod>2022-10-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/61b9829e/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/70734559/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/d1fc759/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/69707535/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/1b850b16/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/aedd05c3/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/7e9276a3/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/14740f7c/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/ec12b762/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/bbc95d58/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/bd7ef112/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/583ff077/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/53e6b356/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/45897d5c/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/8245da27/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/895003b5/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/29b0359b/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/5e2c4b67/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/6d1af91/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/3ee11b0f/</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/posts/4ae2ec41/</loc>
-    
-    <lastmod>2022-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -570,230 +210,34 @@
   
 
   <url>
-    <loc>https://www.jcblog.cf/</loc>
-    <lastmod>2022-12-23</lastmod>
+    <loc>https://www.stoneblog.ml/</loc>
+    <lastmod>2022-12-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://www.jcblog.cf/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2022-12-23</lastmod>
+    <loc>https://www.stoneblog.ml/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2022-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/tags/%E9%81%BF%E5%9D%91/</loc>
-    <lastmod>2022-12-23</lastmod>
+    <loc>https://www.stoneblog.ml/tags/%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2022-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/tags/Hexo%E9%AD%94%E6%94%B9/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/%E4%B8%AA%E4%BA%BA/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/%E7%A4%BE%E4%BC%9A/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/%E7%99%BD%E5%AB%96/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/OI/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/%E9%AB%98%E7%B2%BE%E5%BA%A6/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/goorm/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/%E5%9F%9F%E5%90%8D/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/Windows/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/%E9%AD%94%E6%94%B9%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/%E5%AD%97%E7%AC%A6%E5%A4%84%E7%90%86/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/%E6%A8%A1%E6%8B%9F/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/Python/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/PyQt5/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/%E7%BC%96%E7%A8%8B/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/uClock/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/%E8%B4%AA%E5%BF%83/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/tags/%E7%BF%BB%E5%A2%99/</loc>
-    <lastmod>2022-12-23</lastmod>
+    <loc>https://www.stoneblog.ml/tags/%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2022-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
-  
-  <url>
-    <loc>https://www.jcblog.cf/categories/%E9%81%BF%E5%9D%91%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/categories/Hexo%E9%AD%94%E6%94%B9/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/categories/%E4%B8%AA%E4%BA%BA/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/categories/%E7%A4%BE%E4%BC%9A/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/categories/%E7%99%BD%E5%AB%96%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/categories/OI/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/categories/%E7%BB%8F%E9%AA%8C%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/categories/%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/categories/Windows/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/categories/%E7%BC%96%E7%A8%8B/</loc>
-    <lastmod>2022-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
